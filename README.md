@@ -10,7 +10,7 @@ As a plugin:
 
 ```
 /plugin marketplace add anurag27397/claims-review
-/plugin install claims-review@anurag-skills
+/plugin install claims-review@claims-review
 ```
 
 Or drop the skill in by hand:
