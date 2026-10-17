@@ -1,0 +1,14 @@
+{
+  "name": "anurag-skills",
+  "owner": {
+    "name": "Anurag K Gupta",
+    "email": "anurag27397@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claims-review",
+      "source": "./",
+      "description": "Code review that checks a PR against its own description: claims first, then a panel of single-angle reviewers, with every comment tied to a claim."
+    }
+  ]
+}

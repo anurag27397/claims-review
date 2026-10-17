@@ -1,0 +1,13 @@
+{
+  "name": "claims-review",
+  "displayName": "Claims Review",
+  "version": "1.0.0",
+  "description": "Code review that checks a PR against its own description: claims first, then a panel of single-angle reviewers, with every comment tied to a claim.",
+  "author": {
+    "name": "Anurag K Gupta",
+    "email": "anurag27397@gmail.com"
+  },
+  "homepage": "https://github.com/anurag27397/claims-review",
+  "license": "MIT",
+  "keywords": ["code-review", "pull-request", "merge-request", "review", "agents"]
+}
